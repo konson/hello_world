@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 different changes
 clearly not the same file as your branch
+=======
+new changes!!!
+>>>>>>> fee477d51c3789ad98fa77d49153652cb30247af
